@@ -15,9 +15,7 @@ https://neuro-radix.moscow/sign-in
 - **train_monster.ipynb** — обучение комплексной модели «Monster» (SwinUNETR + мультизадачная голова).  
 - **inference.ipynb** — применение модели к новым данным, сохранение результатов в DICOM.  
 - **microservice.py** — FastAPI микросервис для удалённого инференса.  
-- **requirements.txt** — зависимости проекта.  
-
-Ссылка на модель: 
+- **requirements.txt** — зависимости проекта.   
 
 ---
 
