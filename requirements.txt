@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+monai
+pydicom
+torchvision
+transformers
+pandas
+openpyxl
+nibabel
+SimpleITK
+matplotlib
+numpy
+pandas
+datasets
+import_ipynb
